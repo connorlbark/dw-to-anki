@@ -1,12 +1,16 @@
+asgiref==3.2.10
 beautifulsoup4==4.9.3
 cached-property==1.5.2
 certifi==2020.6.20
 chardet==3.0.4
+Django==3.1.2
 frozendict==1.2
 genanki==0.8.1
 idna==2.10
 pystache==0.5.4
+pytz==2020.1
 PyYAML==5.3.1
 requests==2.24.0
 soupsieve==2.0.1
+sqlparse==0.3.1
 urllib3==1.25.10
